@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Choliwater</string>
+
+    <!--"Thanks for downloading!" first run dialog-->
+    <string name="first_launch_title">Welcome!</string>
+    <string name="first_launch_message">Thank you for downloading this app!</string>
+
+    <!--Dialog buttons-->
+    <string name="later">Maybe later</string>
+    <string name="no">No thanks</string>
+    <string name="yes">Yes</string>
+
+    <!--"Rate this app" dialog-->
+    <string name="rate_title">Do you like our app?</string>
+    <string name="rate_message">If so, please take a moment to rate my app.</string>
+    <string name="rate">Rate now</string>
+
+    <!--"Rate this app" dialog-->
+    <string name="facebook_title">Connect with us</string>
+    <string name="facebook_message">Become friends on Facebook?</string>
+
+    <!--Offline screen-->
+    <string name="offline_message_1">Connection down?</string>
+    <string name="offline_message_2">WIFI and mobile data are supported.</string>
+    <string name="try_again">Try again</string>
+
+    <!--"No connection" dialog-->
+    <string name="no_connection_title">Connection error</string>
+    <string name="no_connection_message">Please check your internet connection</string>
+    <string name="title_activity_show_web_view">ShowWebView</string>
+
+
+    <!--AdMob IDs-->
+    <string name="admob_app_id">ca-app-pub-2795231365031599~1082350021</string>  <!-- Official AdMob Test ID: ca-app-pub-3940256099942544~3347511713-->
+    <string name="banner_footer">ca-app-pub-2795231365031599/5484629461</string>  <!-- Official AdMob Test ID: ca-app-pub-3940256099942544/6300978111-->
+    <string name="interstitial_full_screen">ca-app-pub-2795231365031599/1409653084</string>  <!-- Official AdMob Test ID: ca-app-pub-3940256099942544/1033173712-->
+
+    <!--App Links URL scheme-->
+    <string name="deeplinking">WebViewGold</string>
+
+</resources>
